@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Web Design</title>
+
+<body>
+<h1>自我介紹</h1>
+<img src="https://i.kym-cdn.com/photos/images/facebook/000/970/542/3cd.jpg" width="50%"
+    height="25%">
+<p>姓名: 陳聖和</p>
+<p>學號: 109062324</p>
+<p>系所: 資工系</p>
+<p>興趣</p>
+<ol>
+    <li>LOL</li>
+    <li>volleyball</li>
+    <li>聽歌</li>
+</ol>
+<p>關於我</p>
+<p>俄羅斯裔義大利排球員Ivan Zaytsev是當今最佳主攻手之一，野獸般的爆發力、敏銳的觀察力，他是場上人人都怕的大砲，更是今年男排世界盃的最佳主攻手！</p>
+</body>
+</html>
